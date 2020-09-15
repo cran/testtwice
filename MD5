@@ -1,0 +1,14 @@
+677651222785d4e9542986cb6ef18920 *DESCRIPTION
+ceaeace778d010d8b362444584ef10c1 *NAMESPACE
+e80b67ce2570e9cb693bc99719cd303c *R/bmhranks.R
+d21fe3371502ccc58964189880506144 *R/multrnk.R
+c5a1ca1a95bf2c0d2dbe8047fffb1d51 *R/testtwice.R
+cd9f82e147db86f2e4cff1ee59e16b1c *R/tt.R
+d1a4a15bd97d3bfd94b547dd53691e50 *build/partial.rdb
+c02ae548b291ba2138dbf90d025d9cac *data/smokerlead.rda
+47ea762debc98df8892e60124da73fd4 *man/bmhranks.Rd
+a96442048d00887f78f8f0023b0d0b42 *man/multrnk.Rd
+17de9bf8da616c29b2fa50c7e1b999ac *man/smokerlead.Rd
+9dfe6234de81938f5089ade26c880744 *man/testtwice-package.Rd
+9a93746283568a0eb19b19f10f585517 *man/testtwice.Rd
+0af3ae390807d7b5e3f116baeed4513f *man/tt.Rd
